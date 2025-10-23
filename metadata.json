@@ -1,0 +1,5 @@
+{
+  "name": "ViewpointFind",
+  "description": "A web application to search for user comments across various social media platforms. The results are revealed after a simulated payment.",
+  "requestFramePermissions": []
+}
